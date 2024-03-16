@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.date{
+    align-self: center;
+    position: relative;
+    left: 40%;
+    margin-top: 15%;
+    font-size: large;
+    font-family: serif;
+}
+
+.centertextleft{
+    left: 30%;
+    position: relative;
+    margin-top: 40px;
+    font-size: xx-large;
+    font-weight:900;
+}
+.centertextright{
+    left: 45%;
+    position: relative;
+    margin-top: 15px;
+    font-size: xx-large;
+    font-weight:900;
+}
+
+.hamright{
+    float: right; margin-right: -16px;
+    transform: rotate(90deg);
+    margin-top: -100px;
+}
